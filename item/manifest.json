@@ -10,8 +10,7 @@
     "scripts": ["background.js"]
   },
   "permissions": [
-    "http://www.rottentomatoes.com/*",
-    "http://rtapi.anacrolix.link/*"
+    "http://www.rottentomatoes.com/*"
   ],
   "content_scripts": [
     {
